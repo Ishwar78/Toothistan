@@ -15,7 +15,7 @@ import {
 const heroImages = [
   {
     id: 1,
-    src: "https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=1200&q=90",
+    src: "/machine.JPG",
     alt: "Professional dental treatment",
     position: "center center",
     label: "Patient First",
@@ -23,7 +23,7 @@ const heroImages = [
   },
   {
     id: 2,
-    src: "https://images.unsplash.com/photo-1588776814546-daab30f310ce?auto=format&fit=crop&w=1000&q=90",
+    src: "/machine2.JPG",
     alt: "Modern dental clinic technology",
     position: "center center",
     label: "Modern",
@@ -31,7 +31,7 @@ const heroImages = [
   },
   {
     id: 3,
-    src: "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=1000&q=90",
+    src: "/Frontimage.JPG",
     alt: "Beautiful healthy smile",
     position: "center center",
     label: "Beautiful",

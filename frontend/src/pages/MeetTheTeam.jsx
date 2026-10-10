@@ -108,7 +108,7 @@ const MeetTheTeam = () => {
             >
               <div className="overflow-hidden rounded-[32px] border border-white bg-white p-3 shadow-[0_25px_70px_rgba(23,59,53,0.14)]">
                 <img
-                  src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=90"
+                  src="/team.JPG"
                   alt="Dental care team"
                   className="h-[420px] w-full rounded-[25px] object-cover sm:h-[520px]"
                 />
@@ -299,7 +299,7 @@ const MeetTheTeam = () => {
               className="overflow-hidden rounded-[30px]"
             >
               <img
-                src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=1100&q=90"
+                src="/vision.JPG"
                 alt="Modern dental treatment"
                 className="h-[420px] w-full object-cover sm:h-[500px]"
               />

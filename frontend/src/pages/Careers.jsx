@@ -118,7 +118,7 @@ export default function Careers() {
           >
             <div className="relative overflow-hidden rounded-[34px] shadow-2xl shadow-[#2d2217]/10">
               <img
-                src="https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=85"
+                src="/timing.JPG"
                 alt="Team collaboration"
                 className="h-[380px] w-full object-cover sm:h-[480px]"
               />
@@ -246,7 +246,7 @@ export default function Careers() {
             className="overflow-hidden rounded-[32px]"
           >
             <img
-              src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1100&q=85"
+              src="/weunderstand.JPG"
               alt="Healthcare team"
               className="h-[430px] w-full object-cover"
             />

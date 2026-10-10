@@ -23,7 +23,7 @@ const services = [
       "Modern implant solutions designed to restore missing teeth with comfort, precision and natural-looking results.",
     icon: Gem,
     image:
-      "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=900&q=85",
+      "/machine.JPG",
     link: "/dental-implants",
   },
   {
@@ -33,7 +33,7 @@ const services = [
       "Transform your smile with carefully designed cosmetic treatments that bring out your natural confidence.",
     icon: Sparkles,
     image:
-      "https://images.unsplash.com/photo-1588776814546-daab30f310ce?auto=format&fit=crop&w=900&q=85",
+      "/about2.JPG",
     link: "/cosmetic-dentistry",
   },
   {
@@ -43,7 +43,7 @@ const services = [
       "Advanced oral surgery procedures performed with high precision, absolute care, and complete comfort.",
     icon: Syringe,
     image:
-      "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=900&q=85",
+      "",
     link: "/surgical-dentistry",
   },
   {
@@ -53,7 +53,7 @@ const services = [
       "Gentle and friendly dental care created to make every child's visit comfortable and stress-free.",
     icon: Baby,
     image:
-      "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=900&q=85",
+      "",
     link: "/pediatric-dentistry",
   },
   {
@@ -63,7 +63,7 @@ const services = [
       "Discreet and comfortable clear aligner treatments designed around your lifestyle and your smile goals.",
     icon: Brush,
     image:
-      "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=900&q=85",
+      "",
     link: "/invisalign",
   },
   {
@@ -73,7 +73,7 @@ const services = [
       "Comprehensive orthodontic care for properly aligned teeth and a healthy, beautifully balanced bite.",
     icon: Smile,
     image:
-      "https://images.unsplash.com/photo-1598256989800-fe5f95da9787?auto=format&fit=crop&w=900&q=85",
+      "",
     link: "/orthodontics",
   },
   {
@@ -83,7 +83,7 @@ const services = [
       "Fast, compassionate dental care for sudden tooth pain, accidents, and urgent dental needs when you need it.",
     icon: AlertCircle,
     image:
-      "https://images.unsplash.com/photo-1588776814546-daab30f310ce?auto=format&fit=crop&w=900&q=85",
+      "",
     link: "/emergency-dentistry",
   },
   {
@@ -93,7 +93,7 @@ const services = [
       "Patient, compassionate dental care customized for individuals with physical or developmental considerations.",
     icon: Heart,
     image:
-      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=900&q=85",
+      "",
     link: "/special-needs-dentistry",
   },
   {
@@ -103,7 +103,7 @@ const services = [
       "Complete preventive and restorative dental care to keep your teeth healthy, strong and comfortable.",
     icon: Stethoscope,
     image:
-      "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=900&q=85",
+      "",
     link: "/general-dentistry",
   },
 ];

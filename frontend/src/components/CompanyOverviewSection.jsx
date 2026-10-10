@@ -32,28 +32,56 @@ const CompanyOverviewSection = () => {
               </h2>
 
               {/* 4 Feature Badges (2x2 Grid) */}
-              <div className="grid grid-cols-2 gap-4 mt-6">
-                {[
-                  "Spa Ambience",
-                  "Expert Team",
-                  "Gentle Approach",
-                  "Trusted Technology",
-                ].map((item, idx) => (
-                  <motion.div
-                    key={item}
-                    initial={{ opacity: 0, y: 15 }}
-                    whileInView={{ opacity: 1, y: 0 }}
-                    viewport={{ once: true }}
-                    transition={{ duration: 0.4, delay: idx * 0.08 }}
-                    className="flex items-center gap-2.5"
-                  >
-                    <span className="text-lg">🦷</span>
-                    <span className="text-sm sm:text-base font-bold text-[#2d2217]">
-                      {item}
-                    </span>
-                  </motion.div>
-                ))}
-              </div>
+             
+{/* 4 Feature Descriptions (2x2 Grid) */}
+<div className="grid grid-cols-2 gap-x-5 gap-y-5 mt-6">
+  {[
+    {
+      title: "Spa Ambience",
+      description:
+        "A calm, luxurious space designed for a relaxing dental experience.",
+    },
+    {
+      title: "Expert Team",
+      description:
+        "Experienced dental professionals focused on your smile and comfort.",
+    },
+    {
+      title: "Gentle Approach",
+      description:
+        "Comfort-first treatments with a gentle and patient-friendly approach.",
+    },
+    {
+      title: "Trusted Technology",
+      description:
+        "Modern dental equipment for precise, safe, and effective treatments.",
+    },
+  ].map((item, idx) => (
+    <motion.div
+      key={item.title}
+      initial={{ opacity: 0, y: 15 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true }}
+      transition={{ duration: 0.4, delay: idx * 0.08 }}
+      className="flex items-start gap-2.5"
+    >
+      <span className="text-lg leading-6 shrink-0" aria-hidden="true">
+        🦷
+      </span>
+
+      <div className="min-w-0">
+        <h3 className="text-sm sm:text-base font-bold text-[#2d2217] mb-1">
+          {item.title}
+        </h3>
+
+        <p className="text-xs sm:text-sm leading-relaxed text-[#6b6258]">
+          {item.description}
+        </p>
+      </div>
+    </motion.div>
+  ))}
+</div>
+
             </motion.div>
 
             {/* Bottom Left Image */}
@@ -62,10 +90,10 @@ const CompanyOverviewSection = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.7, delay: 0.1 }}
-              className="overflow-hidden rounded-3xl shadow-lg h-[320px] sm:h-[380px] relative border-4 border-white bg-[#f4ebd5]"
+              className="overflow-hidden rounded-3xl shadow-lg h-[350px] sm:h-[430px] relative border-4 border-white bg-[#f4ebd5]"
             >
               <img
-                src="https://images.unsplash.com/photo-1588776814546-daab30f310ce?auto=format&fit=crop&w=1000&q=85"
+                src="/about2.JPG"
                 alt="Patient dental checkup care"
                 className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
               />
@@ -82,10 +110,10 @@ const CompanyOverviewSection = () => {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.7 }}
-              className="overflow-hidden rounded-3xl shadow-lg h-[320px] sm:h-[380px] relative border-4 border-white bg-[#f4ebd5]"
+              className="overflow-hidden rounded-3xl shadow-lg h-[420px] sm:h-[480px] relative border-4 border-white bg-[#f4ebd5]"
             >
               <img
-                src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1000&q=85"
+                src="/about.JPG"
                 alt="Smiling female dentist in clinic"
                 className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
               />

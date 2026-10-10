@@ -21,16 +21,17 @@ const Home = () => {
 
       <main>
         <Hero />
+        <ClinicTourSection />
         <TrustSection/>
         <CompanyOverviewSection />
         <MissionTabsSection />
         <Services />
-        <AboutSection />
-        <ClinicTourSection />
+        {/* <AboutSection /> */}
+        
         {/* <DoctorsSection /> */}
         <ReviewsSection />
         <UnderstandSection />
-        <SmileGallery />
+        {/* <SmileGallery /> */}
         {/* <FAQSection /> */}
         <ContactSection />
       </main>

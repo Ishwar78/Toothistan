@@ -1,5 +1,5 @@
 const API_URL =
-  import.meta.env.VITE_API_URL || "https://tootistan-dental.onrender.com/api";
+  import.meta.env.VITE_API_URL || "http://localhost:5000/api";
 
 export const IMAGE_HOST = API_URL.replace(/\/api\/?$/, "");
 

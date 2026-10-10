@@ -114,7 +114,7 @@ export default function CosmeticDentistry() {
             >
               <div className="relative overflow-hidden rounded-[34px] shadow-2xl shadow-[#2d2217]/10">
                 <img
-                  src="https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?auto=format&fit=crop&w=1200&q=85"
+                  src="/whychoose.JPG"
                   alt="Confident smile"
                   className="h-[390px] w-full object-cover sm:h-[490px]"
                 />
@@ -345,7 +345,7 @@ export default function CosmeticDentistry() {
             >
               <div className="relative overflow-hidden rounded-[32px]">
                 <img
-                  src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=1100&q=85"
+                  src="/weunderstand.JPG"
                   alt="Cosmetic dental care"
                   className="h-[430px] w-full object-cover"
                 />

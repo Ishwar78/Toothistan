@@ -47,9 +47,9 @@ const UnderstandSection = () => {
           transition={{ duration: 0.7 }}
           className="lg:col-span-5 flex justify-center"
         >
-          <div className="relative overflow-hidden rounded-2xl shadow-xl w-full max-w-[500px] h-[380px] sm:h-[450px] bg-[#b8661d]">
+          <div className="relative overflow-hidden rounded-2xl shadow-xl w-full max-w-[500px] h-[440px] sm:h-[500px] bg-[#b8661d]">
             <img
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1000&q=85"
+              src="/weunderstand.JPG"
               alt="Smiling patient with healthy white teeth"
               className="w-full h-full object-cover"
             />

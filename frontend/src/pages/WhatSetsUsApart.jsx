@@ -144,7 +144,7 @@ export default function WhatSetsUsApart() {
           >
             <div className="relative overflow-hidden rounded-[34px] shadow-2xl shadow-[#2d2217]/10">
               <img
-                src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1200&q=85"
+                src="/machine.JPG"
                 alt="Modern dental clinic"
                 className="h-[390px] w-full object-cover sm:h-[490px]"
               />
@@ -217,7 +217,7 @@ export default function WhatSetsUsApart() {
             className="lg:col-span-6 overflow-hidden rounded-[32px] shadow-lg h-[400px] sm:h-[480px] border-4 border-white bg-[#f4ebd5] relative"
           >
             <img
-              src="/image8.png"
+              src="/about1.JPG"
               alt="Peaceful Treatment Room"
               className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
             />
@@ -349,7 +349,7 @@ export default function WhatSetsUsApart() {
             className="relative overflow-hidden rounded-[32px]"
           >
             <img
-              src="https://images.unsplash.com/photo-1598256989800-fe5f95da9787?auto=format&fit=crop&w=1100&q=85"
+              src="/about2.JPG"
               alt="Comfort-focused dental care"
               className="h-[440px] w-full object-cover"
             />

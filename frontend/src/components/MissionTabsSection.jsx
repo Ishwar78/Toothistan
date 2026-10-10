@@ -24,7 +24,7 @@ const tabData = [
         text: "Our caring dental team works with skill and honesty to give you the best care, every time.",
       },
     ],
-    image: "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1000&q=85",
+    image: "/expertsecction.JPG",
     imageAlt: "Expert dentist in clinic",
   },
   {
@@ -43,7 +43,7 @@ const tabData = [
       { label: "Treatment Success", value: 99 },
       { label: "Client Satisfaction", value: 97 },
     ],
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=1000&q=85",
+    image: "/whychoose.JPG",
     imageAlt: "Smiling patient",
   },
   {
@@ -61,7 +61,7 @@ const tabData = [
       { days: "Wednesday – Saturday:", time: "8am – 5pm" },
       { days: "Sunday:", time: "Closed" },
     ],
-    image: "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=1000&q=85",
+    image: "/timing.JPG",
     imageAlt: "Doctor in clinic office",
   },
 ];

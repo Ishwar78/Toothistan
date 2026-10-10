@@ -154,7 +154,7 @@ const SpecialNeedsDentistry = () => {
 
               <div className="relative overflow-hidden rounded-[2rem] border border-white bg-white p-3 shadow-[0_25px_80px_rgba(23,59,53,0.14)]">
                 <img
-                  src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=1200&q=85"
+                  src="/team.JPG"
                   alt="Comfortable dental care"
                   className="h-[430px] w-full rounded-[1.5rem] object-cover sm:h-[520px]"
                 />
@@ -264,7 +264,7 @@ const SpecialNeedsDentistry = () => {
               className="overflow-hidden rounded-[2rem]"
             >
               <img
-                src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=1200&q=85"
+                src="/waiting.JPG"
                 alt="Patient-focused dental environment"
                 className="h-[460px] w-full object-cover"
               />

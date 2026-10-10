@@ -115,7 +115,7 @@ const OurOffice = () => {
             >
               <div className="overflow-hidden rounded-[32px] border border-white bg-white p-3 shadow-[0_25px_70px_rgba(23,59,53,0.14)]">
                 <img
-                  src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1200&q=90"
+                  src="/timing.JPG"
                   alt="Modern dental clinic"
                   className="h-[420px] w-full rounded-[25px] object-cover sm:h-[520px]"
                 />
@@ -191,7 +191,7 @@ const OurOffice = () => {
                 className="overflow-hidden rounded-[28px] sm:row-span-2"
               >
                 <img
-                  src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=900&q=90"
+                  src="/about1.JPG"
                   alt="Dental care"
                   className="h-full min-h-[430px] w-full object-cover"
                 />
@@ -205,7 +205,7 @@ const OurOffice = () => {
                 className="overflow-hidden rounded-[28px]"
               >
                 <img
-                  src="https://images.unsplash.com/photo-1588776814546-daab30f310ce?auto=format&fit=crop&w=800&q=90"
+                  src="/machine.JPG"
                   alt="Dental clinic"
                   className="h-[210px] w-full object-cover"
                 />

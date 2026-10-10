@@ -151,7 +151,7 @@ const PatientsComfort = () => {
             >
               <div className="overflow-hidden rounded-[32px] border border-white bg-white p-3 shadow-[0_25px_70px_rgba(23,59,53,0.14)]">
                 <img
-                  src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1200&q=90"
+                  src="/about2.JPG"
                   alt="Comfortable dental clinic"
                   className="h-[420px] w-full rounded-[25px] object-cover sm:h-[520px]"
                 />
@@ -386,7 +386,7 @@ const PatientsComfort = () => {
               className="relative overflow-hidden rounded-[30px]"
             >
               <img
-                src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=1100&q=90"
+                src="/gentelapp.JPG"
                 alt="Modern dental treatment"
                 className="h-[420px] w-full object-cover sm:h-[500px]"
               />
@@ -488,7 +488,7 @@ const PatientsComfort = () => {
               className="overflow-hidden rounded-[30px]"
             >
               <img
-                src="https://images.unsplash.com/photo-1588776814546-daab30f310ce?auto=format&fit=crop&w=1100&q=90"
+                src="/image01.JPG"
                 alt="Comfortable dental care"
                 className="h-[420px] w-full object-cover sm:h-[500px]"
               />

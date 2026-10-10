@@ -105,7 +105,7 @@ export default function MissionVision() {
           >
             <div className="relative overflow-hidden rounded-[32px] shadow-2xl shadow-[#2d2217]/10">
               <img
-                src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=1200&q=85"
+                src="/vision.JPG"
                 alt="Premium dental care"
                 className="h-[380px] w-full object-cover sm:h-[470px]"
               />

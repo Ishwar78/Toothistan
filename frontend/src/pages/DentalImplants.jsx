@@ -149,7 +149,7 @@ const DentalImplants = () => {
 
               <div className="relative overflow-hidden rounded-[2rem] border border-white bg-white p-3 shadow-[0_25px_80px_rgba(23,59,53,0.14)]">
                 <img
-                  src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=1200&q=85"
+                  src="/machine.JPG"
                   alt="Dental implant consultation"
                   className="h-[430px] w-full rounded-[1.5rem] object-cover sm:h-[520px]"
                 />
@@ -261,7 +261,7 @@ const DentalImplants = () => {
               className="overflow-hidden rounded-[2rem]"
             >
               <img
-                src="https://images.unsplash.com/photo-1588776814546-daab30f310ce?auto=format&fit=crop&w=1200&q=85"
+                src="/about2.JPG"
                 alt="Modern dental care"
                 className="h-[460px] w-full object-cover"
               />

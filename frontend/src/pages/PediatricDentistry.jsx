@@ -160,7 +160,7 @@ const PediatricDentistry = () => {
 
               <div className="relative overflow-hidden rounded-[2rem] border border-white bg-white p-3 shadow-[0_25px_80px_rgba(23,59,53,0.14)]">
                 <img
-                  src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=1200&q=85"
+                  src="/weunderstand.JPG"
                   alt="Pediatric dental care"
                   className="h-[430px] w-full rounded-[1.5rem] object-cover sm:h-[520px]"
                 />
@@ -271,7 +271,7 @@ const PediatricDentistry = () => {
               className="overflow-hidden rounded-[2rem]"
             >
               <img
-                src="https://images.unsplash.com/photo-1598256989800-fe5f95da9787?auto=format&fit=crop&w=1200&q=85"
+                src="/whychoose.JPG"
                 alt="Children's dental care"
                 className="h-[460px] w-full object-cover"
               />
@@ -369,7 +369,7 @@ const PediatricDentistry = () => {
               className="relative overflow-hidden rounded-[2rem]"
             >
               <img
-                src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=1200&q=85"
+                src="/about2.JPG"
                 alt="Dental care environment"
                 className="h-[420px] w-full object-cover"
               />

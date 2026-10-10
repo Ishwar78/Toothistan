@@ -160,7 +160,7 @@ const SurgicalDentistry = () => {
 
               <div className="relative overflow-hidden rounded-[2rem] border border-white bg-white p-3 shadow-[0_25px_80px_rgba(23,59,53,0.14)]">
                 <img
-                  src="https://images.unsplash.com/photo-1588776814546-daab30f310ce?auto=format&fit=crop&w=1200&q=85"
+                  src="/whychoose.JPG"
                   alt="Modern surgical dental care"
                   className="h-[430px] w-full rounded-[1.5rem] object-cover sm:h-[520px]"
                 />
@@ -271,7 +271,7 @@ const SurgicalDentistry = () => {
               className="overflow-hidden rounded-[2rem]"
             >
               <img
-                src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=1200&q=85"
+                src="/timing.JPG"
                 alt="Dental treatment planning"
                 className="h-[460px] w-full object-cover"
               />
@@ -367,7 +367,7 @@ const SurgicalDentistry = () => {
               className="relative overflow-hidden rounded-[2rem]"
             >
               <img
-                src="https://images.unsplash.com/photo-1550831107-1553da8c8464?auto=format&fit=crop&w=1200&q=85"
+                src="/waiting.JPG"
                 alt="Patient-focused dental consultation"
                 className="h-[420px] w-full object-cover"
               />

@@ -80,7 +80,7 @@ export default function BallinsOnBudget() {
           <motion.div initial={{ opacity: 0, scale: 0.94 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.8 }} className="relative">
             <div className="overflow-hidden rounded-[34px] shadow-2xl shadow-[#2d2217]/10">
               <img
-                src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=1200&q=85"
+                src="/machine.JPG"
                 alt="Premium dental care experience"
                 className="h-[380px] w-full object-cover sm:h-[480px]"
               />
@@ -135,7 +135,7 @@ export default function BallinsOnBudget() {
             className="overflow-hidden rounded-[2rem] shadow-sm min-h-[350px] lg:min-h-[440px] relative"
           >
             <img
-              src="/image5.png"
+              src="/image01.JPG"
               alt="Clean & Safe Spaces"
               className="w-full h-full object-cover"
             />

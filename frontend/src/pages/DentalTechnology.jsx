@@ -20,7 +20,7 @@ const techList = [
     description:
       "Mess-free precision. Our handheld 3D scanners capture ultra-detailed images of your teeth and gums — replacing traditional, uncomfortable molds. Enjoy faster, cleaner, and more accurate impressions for restorations, aligners, and smile makeovers.",
     image:
-      "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=90",
+      "/machine.JPG",
     imageRight: false,
   },
   {
@@ -29,7 +29,7 @@ const techList = [
     description:
       "At Toothistan, we use advanced 3D CT Imaging to see your teeth and jaws in full detail. This helps us find problems and plan treatments very carefully, especially for implants and root canals. Also, the technology uses very low radiation, so you stay safe while we get the best images for accurate care.",
     image:
-      "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=900&q=90",
+      "/machine2.JPG",
     imageRight: true,
   },
   {
@@ -38,7 +38,7 @@ const techList = [
     description:
       "At Toothistan, we use Digital Smile Design to plan your ideal smile. First, we study your face and teeth using special software. Then, we show you a clear picture of how your new smile will look before we start any treatment. This way, your smile is made just for you and looks amazing.",
     image:
-      "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=900&q=90",
+      "/about1.JPG",
     imageRight: true,
   },
   {
@@ -47,7 +47,7 @@ const techList = [
     description:
       "If your smile shows too much gum or your gum line is uneven, Toothistan can help. We use a gentle laser to reshape your gums with little pain and no stitches. This advanced method helps you heal faster and smile with confidence sooner.",
     image:
-      "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=900&q=90",
+      "/machine2.JPG",
     imageRight: false,
   },
   {
@@ -56,7 +56,7 @@ const techList = [
     description:
       "At Toothistan, we use special treatments to add minerals back to your teeth. This helps stop early tooth decay and reduces sensitivity. Plus, it's gentle and painless. With this care, your natural enamel gets stronger and your smile stays healthy.",
     image:
-      "https://images.unsplash.com/photo-1598256989800-fe5f95da9787?auto=format&fit=crop&w=900&q=90",
+      "/machine.JPG",
     imageRight: true,
   },
 ];
@@ -160,7 +160,7 @@ export default function DentalTechnology() {
                   <img
                     src={item.image}
                     alt={item.title}
-                    className="h-[280px] sm:h-[340px] w-full object-cover transition-transform duration-700 hover:scale-105"
+                    className="h-[280px] sm:h-[390px] w-full object-cover transition-transform duration-700 hover:scale-105"
                   />
                 </div>
 

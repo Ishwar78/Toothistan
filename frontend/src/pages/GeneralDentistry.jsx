@@ -114,7 +114,7 @@ export default function GeneralDentistry() {
             >
               <div className="relative overflow-hidden rounded-[34px] shadow-2xl shadow-[#2d2217]/10">
                 <img
-                  src="https://images.unsplash.com/photo-1606811971618-4486d14f3f99?auto=format&fit=crop&w=1200&q=85"
+                  src="/about2.JPG"
                   alt="General dental care"
                   className="h-[390px] w-full object-cover sm:h-[490px]"
                 />

@@ -73,61 +73,61 @@ const comfortPoints = [
 const tourItems = [
   {
     title: "Easy Parking",
-    image: "/image1.png",
+    image: "/Frontimage.JPG",
     description:
       "You'll find plenty of parking spaces close to our clinic, making it simple and stress-free for you to park when you arrive for your visit.",
   },
   {
     title: "Warm Welcome",
-    image: "/image2.png",
+    image: "/welcome.JPG",
     description:
       "Step inside and meet our friendly team who will help you check in quickly using easy digital forms—no waiting or hassle.",
   },
   {
     title: "Reception Area",
-    image: "/image3.png",
+    image: "/timing.JPG",
     description:
       "Relax in our comfortable lounge while you wait—usually less than five minutes—with a calm space designed just for you.",
   },
   {
     title: "Fun Zone for Kids",
-    image: "/image4.png",
+    image: "/kids.JPG",
     description:
       "Our children's area is full of toys and special surprises, so your little ones can enjoy their visit and feel happy.",
   },
   {
     title: "Clean & Safe Spaces",
-    image: "/image5.png",
+    image: "/clean.JPG",
     description:
       "We keep all areas super clean with top sterilization practices to protect your health and make you feel safe.",
   },
   {
     title: "Latest Dental Technology",
-    image: "/image6.jpg",
+    image: "/machine.JPG",
     description:
       "Using the latest technology, we make sure every treatment is precise, quick, and comfortable for you.",
   },
   {
     title: "Comfortable Washrooms",
-    image: "/image7.png",
+    image: "/clean.JPG",
     description:
       "Our restrooms are designed to give you a touch of comfort and convenience during your visit.",
   },
   {
     title: "Peaceful Treatment Rooms",
-    image: "/image8.png",
+    image: "/room.JPG",
     description:
       "Enjoy calm treatment rooms with lovely garden views to help you feel relaxed and at ease during your care.",
   },
   {
     title: "Friendly Team Support",
-    image: "/image9.png",
+    image: "/team.JPG",
     description:
       "Our skilled dental professionals are here to support you at every step, making sure you feel cared for and comfortable.",
   },
   {
     title: "Easy Payment Help",
-    image: "/image10.png",
+    image: "/timing.JPG",
     description:
       "Talk with our financial coordinator who will explain treatment costs clearly and help with insurance questions.",
   },
@@ -313,7 +313,7 @@ export default function FirstVisitExpectations() {
 
               <div className="relative overflow-hidden rounded-[2rem] border-[8px] border-white shadow-[0_30px_80px_rgba(23,59,53,0.14)]">
                 <img
-                  src="https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=1400&q=85"
+                  src="/timing.JPG"
                   alt="Modern dental treatment room"
                   className="h-[430px] w-full object-cover sm:h-[520px]"
                 />
@@ -402,7 +402,7 @@ export default function FirstVisitExpectations() {
               <div className="grid lg:grid-cols-[1fr_1.15fr]">
                 <div className="relative min-h-[300px] overflow-hidden">
                   <img
-                    src="https://images.unsplash.com/photo-1588776814546-daab30f310ce?auto=format&fit=crop&w=1200&q=85"
+                    src="/waiting.JPG"
                     alt="Comfortable dental care"
                     className="absolute inset-0 h-full w-full object-cover"
                   />

@@ -110,7 +110,7 @@ const About = () => {
               className="overflow-hidden rounded-2xl shadow-md h-[380px] sm:h-[460px] relative"
             >
               <img
-                src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1200&q=85"
+                src="/weunderstand.JPG"
                 alt="Toothistan Founder & Dentist"
                 className="w-full h-full object-cover"
               />
